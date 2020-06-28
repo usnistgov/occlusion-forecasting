@@ -3,7 +3,7 @@ A sample README.md file
 # Project Name
 ---
 ## The Goal of this project 
-- To develop a physics-guided forecasting model to predict sun-cloud occlusion events using sky images and surface solar irradiance.
+- To develop a physics-guided forecasting model to predict sun-cloud occlusion events using sky images and surface solar irradiance measurements.
 
 ## Code status
 - Pre-release status
@@ -18,4 +18,4 @@ A sample README.md file
 - Patrick Kamongi (patrick dot kamongi at nist.gov)
 
 ## Acknowledgement for reused code
-- Optical Flow: https://docs.opencv.org/3.4/d4/dee/tutorial_optical_flow.html
+- Examples (i.e., Optical Flow) from https://opencv-python-tutroals.readthedocs.io/en/latest/
